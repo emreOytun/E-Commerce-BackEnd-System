@@ -1,5 +1,5 @@
 # E-Commerce-BackEndSystem
-Back-end design for an e-commerce system is designed and simulated according to SOLID Principles.
+Back-end design for an e-commerce system is designed with multi-layered architecture according 
+to SOLID principles and simulated.
 
--> Multi-layered architecture is designed for this purpose.
 -> Eclipse IDE is used to develop the project.
